@@ -6,8 +6,7 @@ This is a backup of the bitcoin original code from [satoshi.nakamotoinstitute.or
 # <center>CODE</center>
 This page contains files for the first three available Bitcoin codebases written by Satoshi Nakamoto. Version control and releases from v0.1.5 onward can be viewed on the [Bitcoin GitHub repository](https://github.com/bitcoin/bitcoin/releases).
 
--
-#Bitcoin Pre-Release
+# Bitcoin Pre-Release
 **Date** November 16, 2008
 
 **Download**  [bitcoin-nov08.tgz](https://s3.amazonaws.com/nakamotoinstitute/code/bitcoin-nov08.tgz)(Compressed by SNI)
@@ -18,7 +17,7 @@ SHA1: 410bc2e605e6b3152ba799967020b9a64516243a
 
 **Source** [https://bitcointalk.org/index.php?topic=382374.0](https://bitcointalk.org/index.php?topic=382374.0)
 
-#Bitcoin v0.1.0
+# Bitcoin v0.1.0
 **Date** January 9, 2009
 
 **Download** [bitcoin-0.1.0.rar](https://s3.amazonaws.com/nakamotoinstitute/code/bitcoin-0.1.0.rar)
@@ -37,8 +36,7 @@ SHA1: 35f83eaa334e0e447ceea77a7cc955a4ccdd1a1d
 
 **Source** [https://bitcointalk.org/index.php?topic=68121.0](https://bitcointalk.org/index.php?topic=68121.0)
 
--
-#Bitcoin v0.1.3
+# Bitcoin v0.1.3
 **Date** January 14, 2009 (?)
 
 **Download** [bitcoin-0.1.3.rar](https://s3.amazonaws.com/nakamotoinstitute/code/bitcoin-0.1.3.rar)
